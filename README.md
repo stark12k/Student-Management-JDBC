@@ -6,8 +6,8 @@ The Student Management System is a Java-based application designed to manage stu
 
 ## Features
 
--> Add a new Student : Insert new student records into the database.
--> View all students : Fetch and display all student records.
--> Search a student : Search for a student by ID
--> Update student details : Manipulate the existing student information.
--> Delete a student : Remove a student's record from the database.
+- Add a new Student : Insert new student records into the database.
+- View all students : Fetch and display all student records.
+- Search a student : Search for a student by ID
+- Update student details : Manipulate the existing student information.
+- Delete a student : Remove a student's record from the database.
