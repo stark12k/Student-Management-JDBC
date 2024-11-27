@@ -12,7 +12,7 @@ The Student Management System is a Java-based application designed to manage stu
 
 ## Database Setup
 
-- This project is done in MySQL.
+- This project is done in MySQL. (I'll also add postgresql in near future)
 - Create a database under any name (Ex: Student, StudentData etc) and name the schema as StudentTable. 
 - Under the schema, create a table and set the values for the table.
 - Once the database is setup, you are ready to perform jdbc operations.
@@ -24,4 +24,3 @@ The Student Management System is a Java-based application designed to manage stu
 - After entering the credentials, head over to driver class and run the application.
 
 
-Let me know if you'd like any further customization! 😊
